@@ -18,7 +18,8 @@ A lightweight Windows application for creating and editing Docklight `.ptp` proj
 
 ## Application Preview
 
-![Docklight Editor Main Window](images/Docklight_Editor_Main.png)
+![Docklight Editor Main Window](images/Screenshot%202026-10-19%20175856.png)
+
 
 ## Download
 
